@@ -1,0 +1,6 @@
+owner=464174709659926530
+prefix=k
+game=kosamk ya yossef
+stayinchannel=true
+songinstatus=false
+token=NTYwOTUyOTM5Mzg1MTkyNDgw.D37cRA.NLpcntj9FetYFVilJo3TqWNP38U
